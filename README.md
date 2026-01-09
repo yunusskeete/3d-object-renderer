@@ -1,5 +1,5 @@
-# eng-rendering-services
-Asset rendering services for End-to-End 3D Automation.
+# 3d-object-renderer
+Blender 3D Object Rendering for 3D Agentic RAG.
 
 ## Overview
 This repo implements a simple microservice for 3D asset rendering using blender python for AI-enabled 3D automation.
