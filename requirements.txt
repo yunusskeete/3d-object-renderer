@@ -1,0 +1,3 @@
+# mathutils
+bpy==4.1.0
+git+https://github.com/3D-Intelligence/eng-3d-python-utils.git@main#egg=python_utils[arrays]

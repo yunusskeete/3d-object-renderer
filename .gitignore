@@ -1,0 +1,6 @@
+**/__pycache__/
+*.egg-info/
+blender-4.1.0-linux-x64/
+sample_objects/
+
+.env
